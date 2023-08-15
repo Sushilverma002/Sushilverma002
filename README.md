@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Data science from INTERNSHALA**
+- 🌱 I’m currently learning **Data science from INTERNSHALA**.
 
 - 👨‍💻 All of my projects are available at [https://sushilverma002.github.io/portfolio/](https://sushilverma002.github.io/portfolio/)
 
