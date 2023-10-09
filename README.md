@@ -4,8 +4,7 @@
 
 
 - 🌱 I’m currently learning **Data science from INTERNSHALA**.
-  
-[![An image of @sushil_verma_002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushil_verma_002)](https://holopin.io/@sushil_verma_002)
+
 - 👨‍💻 All of my projects are available at [https://sushilverma002.github.io/portfolio/](https://sushilverma002.github.io/portfolio/)
 
 - 📫 How to reach me **sushilvarma9911@gmail.com**
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilverma002&show_icons=true&locale=en" alt="sushilverma002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilverma002&" alt="sushilverma002" /></p>
+
+[![An image of @sushil_verma_002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushil_verma_002)](https://holopin.io/@sushil_verma_002)
