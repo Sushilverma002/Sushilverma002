@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Sushil verma and I'm Final year B.Tech student at GGSIPU Delhi.</h3>
+<h3 align="left">Hi 👋! Everyone </h3>
 
 ###
 
